@@ -1,3 +1,3 @@
 # Kokoa Clone 2024
 
-CSS got so much better!
+I clone a kokoa application by myself! I am so excited :D
